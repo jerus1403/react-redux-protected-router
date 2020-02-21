@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"categorypage8024ce6f": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
